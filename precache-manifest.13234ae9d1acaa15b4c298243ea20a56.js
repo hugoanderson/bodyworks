@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9b8d45845eae84290e9b",
+    "revision": "e14c9691ca4110be8220",
     "url": "/bodyworks/static/css/main.9fa859fa.chunk.css"
   },
   {
-    "revision": "9b8d45845eae84290e9b",
-    "url": "/bodyworks/static/js/main.9b8d4584.chunk.js"
+    "revision": "e14c9691ca4110be8220",
+    "url": "/bodyworks/static/js/main.e14c9691.chunk.js"
   },
   {
     "revision": "20009964e7c448daeaeb",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/bodyworks/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "49c62f74eff16d082867f10fa9343962",
+    "revision": "188d3be85104227271caf0d1bdb62d4f",
     "url": "/bodyworks/index.html"
   }
 ];

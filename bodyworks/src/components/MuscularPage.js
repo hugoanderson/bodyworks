@@ -4,43 +4,62 @@ import Button from './Button';
 
 const question1 = {
     q: "What is a muscle?",
-    a: ""
+    a: "Muscles are a special type of cell that can contract."
 };
 const question2 = {
-    q: "What kinds are there?",
-    a: ""
+    q: "What kinds of muscles are there?",
+    a: "There are voluntary muscles which you can control (like in your " +
+    "arms and legs), and involuntary muscles that you can't control (like " +
+    "in your eyes or your stomach). You can also divide muscles into " +
+    "skeletal, smooth, and cardiac muscles. Skeletal muscles are for " +
+    "moving your body. Smooth muscles are in your stomach and blood " +
+    "vessels. Cardiac muscles are in your heart. There are even smooth " +
+    "muscles in your skin attached to each hair to make them stand up!"
 };
 const question3 = {
-    q: "How do they work?",
-    a: ""
+    q: "How do muscles work?",
+    a: "Muscles work using special molecules called actin and myosin. " +
+    "When the brain sends a signal to contract, the myosin filaments pull " +
+    "on the actin filaments, causing the muscle to get shorter."
 };
 const question4 = {
-    q: "How many do you have?",
-    a: ""
+    q: "How many muscles do you have?",
+    a: "More than 600! Some major ones are the biceps, triceps, pectorals, " +
+    "deltoids, abdominals, quadriceps, and gluteus maximus. Also, the " +
+    "tongue is a majorly important muscle used for eating and talking."
 };
 const question5 = {
     q: "How do you get hiccups?",
-    a: ""
+    a: "Hiccups happen when the big muscle at the bottom of your ribcage " +
+    "(the diaphragm) gets irritated. It suddenly pulls air into your lungs " +
+    "and causes your vocal cords to snap shut, making that silly hiccup sound."
 };
 const question6 = {
     q: "Why do muscles get cramps?",
-    a: ""
+    a: "A cramp happens when a voluntary muscle contracts involuntarily. " +
+    "A chemical imbalance (such as too much lactic acid) causes the muscle " +
+    "to get stuck in a contracted state."
 };
 const question7 = {
-    q: "Why do you need to stretch?",
-    a: ""
+    q: "Why should you stretch?",
+    a: "Loosening the muscles and increasing blood flow may help limit " +
+    "muscle injuries. It also feels really good!"
 };
 const question8 = {
     q: "What is the biggest muscle?",
-    a: ""
+    a: "The biggest muscle is the gluteus maximus, which is the main muscle " +
+    "used for walking and standing upright. And it's also used for sitting on!"
 };
 const question9 = {
     q: "What is the smallest muscle?",
-    a: ""
+    a: "The smallest muscle is the stapedius, which is located inside the " +
+    "ear and helps to support the smallest bone in the body, the stapes."
 };
 const question10 = {
     q: "Why do your muscles get sore ?",
-    a: ""
+    a: "Muscles get sore when they work harder than usual because of " +
+    "microscopic damage to the muscles. Although it hurts, it usually " +
+    "means the muscles are getting stronger."
 };
 
 class MuscularPage extends BasePage {
